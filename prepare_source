@@ -1,3 +1,5 @@
+pkg=libusb-1.0
+version_orig=1.0.30-1
+snapshot_gl_version="1784318895" # GL2300
+snapshot_src "$pkg" "$snapshot_gl_version"
 version_suffix="gl0~bp2150"
-
-apt_src libusb-1.0
